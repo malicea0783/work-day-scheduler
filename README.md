@@ -16,6 +16,6 @@ https://github.com/malicea0783/work-day-scheduler.git
 
 ![Work Day Scheduler](./assets/images/schedulerScreenshot.png)
 
-![Saved Function](./assets.images/savedFunction.png)
+![Saved Function](./assets/images/savedFunction.png)
 
-![Local Storage](./assets.images/localStorage.png)
+![Local Storage](./assets/images/localStorage.png)
